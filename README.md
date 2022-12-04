@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando react
 - 📫 Contrate-me no email: rafael_alvarino@hotmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Rafael-A8">
