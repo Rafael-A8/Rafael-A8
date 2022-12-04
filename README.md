@@ -31,5 +31,5 @@
   </br>
 </div>
 <div align="center">
-  ![snake animation](https://github.com/Rafael-A8/Rafael-A8/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/Rafael-A8/Rafael-A8/blob/output/github-contribution-grid-snake.svg)
 </div>
