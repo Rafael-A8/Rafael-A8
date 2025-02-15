@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rafael Alvarino
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando react
+- 🌱 Estudando nodejs
 - 📫 Contrate-me no email: rafael_alvarino@hotmail.com
 
 <div align="center">
