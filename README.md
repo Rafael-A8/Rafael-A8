@@ -1,35 +1,65 @@
-## Olá! Eu sou o Rafael Alvarino
+# 👋 Olá, eu sou o Rafael Alvarino
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando nodejs
-- 📫 Contrate-me no email: rafael_alvarino@hotmail.com
+Sou desenvolvedor **Full Stack com foco em Back-end**, apaixonado por arquitetura limpa, integrações e automação de processos.  
+Atualmente trabalho principalmente com **Laravel / PHP**, APIs, integrações externas e estou expandindo meus conhecimentos em **Node.js, Vue.js e IA aplicada a produtos reais**.
 
-<div align="center">
-  <a href="https://github.com/Rafael-A8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-A8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-A8&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-</div>
-  
-  ##
-  
-<div>
-  <a href="https://www.instagram.com/rafael.alvarino.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/rafael.alvarino.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/rafael-alvarino-2682351ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:rafael_alvarino@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </br>
-</div>
-<div align="center">
-  ![snake animation](https://github.com/rafael-a8/rafael-a8/blob/output/github-contribution-grid-snake.svg)
-</div>
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor com foco em **Back-end e arquitetura de sistemas**
+- 🧠 Gosto de **Clean Code, baixo acoplamento e soluções simples**
+- 🔌 Experiência com **APIs REST, integrações e webhooks**
+- 🤖 Estudando e aplicando **IA em fluxos reais (WhatsApp, automação, agentes)**
+- 📚 Sempre aprendendo algo novo (Node.js, NestJS, Vue, Flutter)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Back-end
+- PHP (Laravel)
+- Node.js (Express / NestJS)
+- APIs REST
+- Integrações externas (pagamentos, WhatsApp, webhooks)
+
+### Front-end
+- Vue.js
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- jQuery (quando o legado chama 😅)
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+- Modelagem e migrations
+
+### Outros
+- Docker
+- Git & GitHub
+- Integrações com IA (ChatGPT, Gemini)
+- n8n (automação e orquestração)
+
+---
+
+## 📊 GitHub Stats
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-a8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-a8&layout=compact&theme=radical)
+
+---
+
+## 🐍 Atividade no GitHub
+
+![snake animation](https://github.com/rafael-a8/rafael-a8/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: **rafael_alvarino@hotmail.com**
+- 💼 LinkedIn: *(adicione aqui quando quiser)*
+- 📷 Instagram: *(opcional)*
+
+---
+
+⭐ Se algum projeto te ajudou, considere deixar uma estrela!
